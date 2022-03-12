@@ -1,0 +1,16 @@
+# keys
+/server/cert.pem
+/server/key.pem
+
+# dependencies
+/client/node_modules
+/server/node_modules
+
+# production
+/server/public
+
+# misc
+/server/.env
+/server/.DS_Store
+/client/.DS_Store
+.DS_Store
